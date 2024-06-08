@@ -7,7 +7,7 @@ Time open:
 Everyday from 9am to 6pm (Except wednesday)
 
 Website Link:
-(https://decadent-delights-bakery-zmsbnfh.gamma.site/)
+(https://decadent-delights-bakery-1j4w2ru.gamma.site/)
 
 Location:
 Street - Jalan Tinju 13/50, Seksyen 13, 40100 Shah Alam
