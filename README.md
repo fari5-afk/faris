@@ -1,7 +1,7 @@
 Shop information
 
 Baker:
-Mr.Remy (Exquisite 3-star Michelin star bakery chef)
+Mr.Faris (Exquisite 3-star Michelin star bakery chef)
 
 Time open:
 Everyday from 9am to 6pm (Except wednesday)
@@ -17,7 +17,7 @@ Zip code - 42600
 Phone Number:
 +60 148346333
 
-Cake flavours:
+cake flavours:
 Chocolate (Available)
 Vanilla (Unavailable)
 Strawberry (Unavailable)
